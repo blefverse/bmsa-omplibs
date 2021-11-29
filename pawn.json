@@ -1,0 +1,5 @@
+{
+    "user": "brpsamp",
+    "repo": "brpsa-omplibs",
+    "dependencies": ["pawn-lang/pawn-stdlib"]
+}
